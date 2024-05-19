@@ -1,7 +1,7 @@
 > [!Note]
 > Diese Informationen sind alle *Open-Source / Freizugängig*. <br>
 > Bitte gibt Credits wenn ihr diese Repo als Info-Quelle benutzt. <br>
-> Gefunden von [devTwitchiger](https://github.com/devtwitchiger/) & [Idiotischer](https://github.com/Idiotischer).
+> Gefunden von [devTwitchiger](https://github.com/devtwitchiger/) & [Idiotischer](https://github.com/Idiotischer) & [BlueofPhoenix](https://github.com/BlueofPhoenix).
 
 
 --------------------------------------------------------------------------------------------------
