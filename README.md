@@ -1,6 +1,7 @@
 > [!Note]
 > Diese Informationen sind alle *Open-Source / Freizugängig*. <br>
 > Bitte gibt Credits wenn ihr diese Repo als Info-Quelle benutzt. <br>
+> Diese Repo existiert, weil Uny eine "fragwürdige" Person, welche dinge tut wie Server zerstören, Maps Zerstören oder Viruse auf Server installieren... <br>
 > Gefunden von [devTwitchiger](https://github.com/devtwitchiger/) & [Idiotischer](https://github.com/Idiotischer) & [BlueofPhoenix](https://github.com/BlueofPhoenix).
 
 
