@@ -76,7 +76,7 @@ Forked von https://www.youtube.com/@ebolaman_/
 
 https://github.com/danzelgeb/stundenplan <br>
 https://web.archive.org/web/20240519135722/https://github.com/danzelgeb/stundenplan <br>
-In dieser Repo Reuploaded
+[stundenplan-main.zip](https://github.com/devTwitchiger/UnyCraftEXPOSED/blob/main/stundenplan-main.zip)
 
 -------------------------------------------------------------------------------------------------------
 
