@@ -22,10 +22,10 @@ unycraft.net - 194.163.172.64 <br>
 survival.unycraft.net - 194.163.172.64 <br>
 
 Hoster: Contabo GmbH <br>
-Hostname: contaboserver.net <br>
+Hostname: md109763.contaboserver.net <br>
 Ort: Düsseldorf, NRW, Deutschland (51.1878, 6.8607)
 
-194.163.172.64 Offene Ports 22 & 8000 (Stand 19/05/2024)
+194.163.172.64 Offene Ports: ports.txt (Stand 20/05/2024)
 
 https://discord.gg/Z5ByNe9Z
 
